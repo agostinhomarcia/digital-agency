@@ -58,7 +58,6 @@ The following tools were used in this project:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [SASS](https://sass-lang.com/documentation/)
 
 ## :white_check_mark: Requirements
 
